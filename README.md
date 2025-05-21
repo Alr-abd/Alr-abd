@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Alireza</h1>
 
-<!--
-**Alr-abd/Alr-abd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+a Frontend developer who’s all about React and TypeScript.
+I enjoy crafting clean, fast, and scalable user interfaces with Tailwind CSS and smart architecture.
+When I’m not coding, I’m probably learning new tech or refactoring my old projects. Let’s build something awesome together!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alr-abd&show_icons=true&theme=radical&hide=prs)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alr-abd&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alr-abd&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- Email: alirezaabdi00713@gmail.com  
+- Telegram: [@Alrz_abd](https://t.me/Alrz_abd)
+- Instagram: [@alrza_ab](https://instagram.com/alrza_ab)
+---
+
+## ✨ Personal Quote
+
+> "I turn coffee into code and bugs into features." 💻
+
