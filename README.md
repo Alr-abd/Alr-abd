@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Alireza</h1>
 
 <p align="center">
-a Frontend developer who’s all about React and TypeScript.
-I enjoy crafting clean, fast, and scalable user interfaces with Tailwind CSS and smart architecture.
-When I’m not coding, I’m probably learning new tech or refactoring my old projects. Let’s build something awesome together!
+A frontend developer passionate about React and TypeScript.<br>
+I enjoy crafting clean, fast, and scalable user interfaces with Tailwind CSS and smart architecture.<br>
+When I'm not coding, I'm probably learning new technologies or refactoring old projects.<br>
+Let's build something awesome together!
 </p>
 
 ---
@@ -17,6 +18,7 @@ When I’m not coding, I’m probably learning new tech or refactoring my old pr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-00BFFF?style=for-the-badge&logo=architecture&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -47,11 +49,12 @@ When I’m not coding, I’m probably learning new tech or refactoring my old pr
 ## 📫 Contact Me
 
 - Email: alirezaabdi00713@gmail.com  
-- Telegram: [@Alrz_abd](https://t.me/Alrz_abd)
+- Telegram: [@Alrz_abd](https://t.me/Alrz_abd)  
 - Instagram: [@alrza_ab](https://instagram.com/alrza_ab)
+
 ---
 
 ## ✨ Personal Quote
 
-> "I turn coffee into code and bugs into features." 💻
+> "I turn coffee into code and bugs into features." ☕🐞💻
 
