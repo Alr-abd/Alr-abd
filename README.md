@@ -21,6 +21,8 @@ Let's build something awesome together!
 ![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-00BFFF?style=for-the-badge&logo=architecture&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 </div>
 
